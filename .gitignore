@@ -1,0 +1,7 @@
+/build/
+/bin/
+/.gradle/1.12/taskArtifacts
+/.settings/gradle
+/*.project
+/.settings/org.eclipse.jdt.core.prefs
+/.classpath
